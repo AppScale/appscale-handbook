@@ -1,4 +1,4 @@
 appscale-handbook
 =================
 
-Internal company documentation
+Internal company documentation.
