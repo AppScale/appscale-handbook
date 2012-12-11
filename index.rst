@@ -11,6 +11,7 @@ Welcome to AppScale!
 .. toctree::
    :maxdepth: 2
 
+   code_style/index
    infrastructure/index
    testing
 
