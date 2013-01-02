@@ -14,6 +14,7 @@ Welcome to AppScale!
    documentation/index
    languages/index
    infrastructure/index
+   tools/index
    testing
 
 
