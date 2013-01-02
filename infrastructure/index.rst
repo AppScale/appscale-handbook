@@ -9,4 +9,5 @@ off-the-shelf, some built specifically for AppScale's needs.
 .. toctree::
    :maxdepth: 2
 
+   apt
    jenkins
