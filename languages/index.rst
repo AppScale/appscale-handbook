@@ -1,7 +1,7 @@
 .. AppScale Handbook code style
 
-Code Style
-==========
+Languages
+=========
 
 Initial description.
 
