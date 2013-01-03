@@ -10,6 +10,8 @@ the AppScale Tools repository makes full use of Vagrant to provision and deploy
 a working environment for developing the project as well as providing a command
 console for AppScale clouds.
 
+More information about Vagrant can be found on the `Vagrant Website`_.
+
 -----------------
 How Vagrant works
 -----------------
@@ -48,3 +50,4 @@ AppScale Tools (but the instructions are generally applicable to any
 Vagrant-based project).
 
 .. _Getting Started: https://appscale-tools.readthedocs.org/en/latest/getting_started.html#getting-started
+.. _Vagrant Website: http://vagrantup.com
