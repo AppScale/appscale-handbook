@@ -8,3 +8,4 @@ Tools
 
    apt_cacher
    gpg
+   vagrant
